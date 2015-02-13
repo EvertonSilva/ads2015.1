@@ -1,0 +1,17 @@
+# Site settings
+title: ADS Turma 2015.1
+email: ads2015@googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/ads2015" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: _evertonsilva
+github_username:  EvertonSilva
+
+# Build settings
+name: ADS Turma 2015.1
+markdown: redcarpet
+highlighter: pygments
+
