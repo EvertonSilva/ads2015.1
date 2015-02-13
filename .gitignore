@@ -1,2 +1,6 @@
 _site
 .sass-cache
+
+# cache files
+*.swp
+*~
