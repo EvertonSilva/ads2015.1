@@ -1,0 +1,4 @@
+# List of GIT ignored files
+
+_site/
+.sass-cache/
