@@ -13,9 +13,9 @@ na versão online #fail. De qualquer modo os links para os arquivos digitalizado
 online estão a seguir.
 
 ### CIO precisa estimular agilidade
-[link para o pdf]({{ site.baseurl }}/assets/edda-texto1.pdf)
+[link para o pdf](https://drive.google.com/file/d/0B-iJUE4iVWBNVTRjNXdYcl92Smc/view?usp=sharing)
 
 ### Quem é o CDO?
-[link para o pdf]({{ site.baseurl }}/assets/edda-texto2.pdf)
+[link para o pdf](https://drive.google.com/file/d/0B-iJUE4iVWBNR3RMS0tnZUZpaGs/view?usp=sharing)
 <br>
 [versão online](http://exame.abril.com.br/revista-voce-sa/edicoes/176/noticias/quem-e-o-cdo)
