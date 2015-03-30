@@ -21,9 +21,9 @@ Para dar um ideia de como funciona veja a página de [tranferência externa da u
 
 ##Aluno especial
 
-Talvez a forma mais simples seja essa! É possível se matricular em qualquer disciplina de uma IES pública, por 
+É possível se matricular em qualquer disciplina de uma IES pública, por 
 meio de um pedido de Aluno Especial. O processo é mais simples, você escolhe a disciplina envia o pedido e aguarda
-a aprovação - yep, simples assim - =P. A seguir, veja o texto retirado do site da [Poli-USP][] sobre o assunto:
+a aprovação (yep, só isso!) =P. A seguir, veja o texto retirado do site da [Poli-USP][] sobre o assunto:
 
 >Estudantes com diploma de ensino médio podem cursar disciplinas na Escola Politécnica, desde que haja vagas, na condição de aluno especial. Nesta modalidade, o interessado cursa disciplinas isoladas dos cursos de graduação e ao final do semestre recebe um histórico escolar.
 
