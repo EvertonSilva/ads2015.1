@@ -10,8 +10,15 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: _evertonsilva
 github_username:  EvertonSilva
 
+# Assets
+sass_dir: _sass
+style: :compressed
+
+# Paginate
+paginate: 5
+paginate_path: "/posts/page:num/"
+
 # Build settings
 name: Análise e Desenvolvimento de Sistemas
 markdown: redcarpet
 highlighter: pygments
-
