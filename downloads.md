@@ -6,8 +6,7 @@ permalink: /downloads/
 ## Contabilidade
 Arquivos disponibilizados pelo professor de Contabilidade.
 
-{% assign path = site.baseurl %}
-{% capture path %}"/public/downloads/contabilidade"{% endcapture %}
+{% assign path = site.baseurl | append: "/public/downloads/contabilidade" %}
 
 {% for file in site.data.files %}
 [{{ file.title }}]({{ path | append: file.name }})
